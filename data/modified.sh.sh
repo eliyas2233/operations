@@ -1,0 +1,8 @@
+echo "hai project-basah"
+echo "hey project-eliyas"
+echo "welcome devops team"
+echo "hai maheboob"
+echo "hai shafi"
+echo "checking master"
+echo "git pull"
+echo "to check revert command"
